@@ -19,7 +19,7 @@ data.drop(['Gmt time'], axis=1, inplace = True)
 from main import CashData
 
 cd = CashData({'date':data['date'], 'open':data['Open'], 'high':data['High'],
-               'low':data['Low'], 'close':data['Close'], 'volume':data['Volume']}, 12).CashData()
+               'low':data['Low'], 'close':data['Close'], 'volume':data['Volume']}, 5).CashData()
 
 print(cd)
 
