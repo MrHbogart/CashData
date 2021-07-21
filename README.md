@@ -1,4 +1,6 @@
 # CashData
-a python package that converts OHLC price data to neowave chash data
+a python package that converts OHLC price data to neowave cash data
 
-its my first git project and i want to write a python code that, can be used for technical analisys
+it's my first git project, and I want to write a python code that, can be used for technical analysis.
+
+
